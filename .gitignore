@@ -35,7 +35,8 @@ yarn-error.log*
 next-env.d.ts
 
 # Notes
-Project Notes.md
+Project Notes
+
 
 # ENV
 .env
