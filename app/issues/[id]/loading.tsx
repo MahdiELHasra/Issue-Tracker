@@ -1,4 +1,4 @@
 const LoadingIssueDetailsPage = () => {
-  return <div>Loding...</div>;
+  return <div>Loading...</div>;
 };
 export default LoadingIssueDetailsPage;
