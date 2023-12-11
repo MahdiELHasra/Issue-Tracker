@@ -40,3 +40,5 @@ Project Notes
 
 # ENV
 .env
+# Sentry Config File
+.sentryclirc
